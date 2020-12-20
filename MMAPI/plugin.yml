@@ -1,0 +1,19 @@
+version: 1.0
+name: MMAPI
+main: com.tree.mmapi.Main
+author: tree
+api-version: 1.13
+commands:
+  mm:
+  banner:
+  tp:
+  bring:
+  get:
+  gm:
+  ping:
+  pm:
+  game:
+  allgame:
+  lobby:
+  skin:
+  location:
